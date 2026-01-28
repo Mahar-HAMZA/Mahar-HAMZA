@@ -1,4 +1,5 @@
 # 💫 About Me:
+Software Engineering student | Problem-solving enthusiast | Focused on logic building and strengthening programming fundamentals.
 ​🔭 I’m currently working on: Solving DSA challenges in C++ and Java<br>​👯 I’m looking to collaborate on: Open Source Java projects and C++ development<br>​🤝 I’m looking for help with: Understanding the basics of Spring Boot and Backend architectures<br>​🌱 I’m currently learning: Java Spring Boot framework and Advanced OOP concepts<br>​💬 Ask me about: C++, Java, and Data Structures<br>​⚡ Fun fact: I convert Chai into code, but sometimes the compiler needs more Chai than I do!
 
 
